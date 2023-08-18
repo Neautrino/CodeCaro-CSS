@@ -40,3 +40,10 @@ I also attached output's of Every Assignment in the Markdown
 ![Day2 - Assignment2 - part1](https://github.com/Neautrino/CodeCaro-CSS/assets/111379632/9584342b-8551-46e7-b76f-503e0dbd4462)
 
 ![Day2 - Assignment2 - part2](https://github.com/Neautrino/CodeCaro-CSS/assets/111379632/57e80f6f-f92d-4254-9706-7e8b98fc6cee)
+
+## Day3
+
+### [Assignment1](https://github.com/Neautrino/CodeCaro-CSS/tree/master/Day3)
+
+![Day3 - Assignment](https://github.com/Neautrino/CodeCaro-CSS/assets/111379632/2764e7cc-d7d8-402b-819f-a653ebac3567)
+
