@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Metrophobic&display=swap');
+.body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container{
+    width: 600px;
+    margin: 0px auto;
+}
+
+.box1, .box2{
+    text-align: center;
+    position: relative;
+}
+
+.box1 img{
+    width: 95%;
+    border-radius: 15px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+.content{
+    color: white;
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    text-align: center;
+}
+
+.btn{
+    padding: 10px 25px;
+    border-radius: 18px;
+    border: none;
+}
+
+.zomato-img{
+    width: 100%;
+}
+
+.box2 h1{
+    font-family: 'Metrophobic', sans-serif;
+    font-style: italic;
+    font-weight:bolder ;
+}
+
+.search-bar{
+    position: relative;
+    font-size: 12px;
+    background-color: white;
+    color: black;
+    width: 100%;
+    display: inline;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.search-img{
+    padding-left: 5px;
+    position: absolute;
+    width: 25px;
+}
+
+span{
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.dropdown{
+    position: absolute;
+    top: 8px;
+    left: 108px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid black;
+}
+
+.vertical-line{
+    border-left: 1px solid gray;
+}
+
+.card{
+    margin: 10px;
+    width: 500px;
+    height: 350px;
+    text-align: center;
+    border: 8px solid gray;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    margin-bottom: 30px;
+    border-bottom: none;
+}
+
+.card-img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100%;
+    height: 150px ;
+    margin-bottom: 30px;
+}
+.user-card{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border: 5px solid white;
+    border-radius: 50%;
+    top: 100px;
+}
+.user{
+    width: 100%;
+    object-fit: cover;
+}
